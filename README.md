@@ -55,7 +55,7 @@ python my_expense_app.py
 
 The GUI window will pop up. No other dependencies or setup required.
 
-# How to use (quick)
+# How to use
 
 1)Fill in the Date, Category, Amount, and optional Note; click Add to record a transaction.
 
